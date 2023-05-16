@@ -21,4 +21,5 @@ if (isset($arrUrl[2])) {
 }
 require_once("Libraries/Core/Autoload.php");
 require_once("Libraries/Core/Load.php");
+/*aqui el index tiene incluidos el footer y el header y por defecto siempre nos enviara a la pestaña de login a menos que ya este una sesion iniciada*/
 ?>
