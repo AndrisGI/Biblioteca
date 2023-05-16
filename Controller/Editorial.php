@@ -58,4 +58,5 @@ class Editorial extends Controllers
         die();
     }
 }
+
 ?>
